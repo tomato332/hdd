@@ -2,7 +2,7 @@
 
 git pull
 git add .
-git commit -m "upload: edit some files"
+git commit -m "파일 업로드/삭제/수정"
 git push
 
 PAUSE
